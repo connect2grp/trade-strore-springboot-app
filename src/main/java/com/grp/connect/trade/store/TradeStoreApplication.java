@@ -2,6 +2,7 @@ package com.grp.connect.trade.store;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 @SpringBootApplication
 public class TradeStoreApplication {
 
