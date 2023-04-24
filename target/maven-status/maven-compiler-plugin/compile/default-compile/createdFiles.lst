@@ -1,0 +1,8 @@
+com\trade\store\tradestore\service\InvalidTradeException.class
+com\trade\store\tradestore\beans\Trade.class
+com\trade\store\tradestore\service\TradeService.class
+com\trade\store\tradestore\controller\ITradeController.class
+com\trade\store\tradestore\service\TradeServiceImpl.class
+com\trade\store\tradestore\beans\Trades.class
+com\trade\store\tradestore\controller\TradeControllerImpl.class
+com\trade\store\tradestore\TradeStoreApplication.class
